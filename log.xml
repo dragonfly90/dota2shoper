@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shopping_parse file="657140538.dem">
+	<time_step tick="254">
+		<stock_update team="radiant" item="gem" count="1" />
+		<stock_update team="dire" item="gem" count="1" />
+		<stock_update team="radiant" item="ward_observer" count="1" />
+		<stock_update team="dire" item="ward_observer" count="1" />
+		<stock_update team="radiant" item="courier" count="1" />
+		<stock_update team="dire" item="courier" count="1" />
+		<stock_update team="radiant" item="flying_courier" count="0" />
+		<stock_update team="dire" item="flying_courier" count="0" />
+		<stock_update team="radiant" item="smoke_of_deceit" count="3" />
+		<stock_update team="dire" item="smoke_of_deceit" count="3" />
+	</time_step>
+	<time_step tick="15834">
+		<hero_spawn hero="EmberSpirit" team="radiant" max_health="511" max_mana="260" gold="625" />
+	</time_step>
+	<time_step tick="15859">
+		<hero_spawn hero="Tidehunter" team="dire" max_health="568" max_mana="208" gold="625" />
+	</time_step>
+	<time_step tick="15882">
+		<hero_spawn hero="Invoker" team="dire" max_health="511" max_mana="286" gold="625" />
+	</time_step>
+	<time_step tick="15958">
+		<hero_spawn hero="Rubick" team="radiant" max_health="511" max_mana="351" gold="625" />
+	</time_step>
+	<time_step tick="15960">
+		<hero_spawn hero="WitchDoctor" team="dire" max_health="454" max_mana="312" gold="625" />
+	</time_step>
+	<time_step tick="16010">
+		<hero_spawn hero="Treant" team="dire" max_health="625" max_mana="221" gold="625" />
+	</time_step>
+	<time_step tick="16053">
+		<hero_spawn hero="Mirana" team="dire" max_health="473" max_mana="221" gold="625" />
+	</time_step>
+	<time_step tick="16056">
+		<hero_spawn hero="Centaur" team="radiant" max_health="587" max_mana="195" gold="625" />
+	</time_step>
+	<time_step tick="16097">
+		<hero_spawn hero="Slardar" team="radiant" max_health="549" max_mana="195" gold="625" />
+	</time_step>
+	<time_step tick="16291">
+		<hero_spawn hero="Disruptor" team="radiant" max_health="511" max_mana="286" gold="625" />
+	</time_step>
+	<time_step tick="17000">
+		<purchase hero="EmberSpirit" item="stout_shield" />
+		<inventory_update hero="EmberSpirit" slot="1" item="stout_shield" />
+	</time_step>
+	<time_step tick="17001">
+		<purchase hero="EmberSpirit" item="branches" />
+		<inventory_update hero="EmberSpirit" slot="2" item="branches" />
+	</time_step>
+	<time_step tick="17002">
+		<purchase hero="EmberSpirit" item="boots" />
+		<inventory_update hero="EmberSpirit" slot="3" item="boots" />
+	</time_step>
+	<time_step tick="17003">
+		<purchase hero="EmberSpirit" item="robe" />
+		<inventory_update hero="EmberSpirit" slot="4" item="robe" />
+	</time_step>
+	<time_step tick="17004">
+		<purchase hero="EmberSpirit" item="circlet" />
+		<inventory_update hero="EmberSpirit" slot="5" item="circlet" />
+	</time_step>
+</shopping_parse>
